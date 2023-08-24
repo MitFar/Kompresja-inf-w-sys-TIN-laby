@@ -1,0 +1,5 @@
+Ćwiczenie 2 - Kwantowanie liniowe, kwantowanie dynamiczne i kwantowanie nieliniowe w oparciu o krzywą.
+Ćwiczenie 3 - Adaptacyjna modulacja Delta oraz kodek ADPCM
+Ćwiczenie 4 - Kompresja sygnałów mowy w oparciu o kwantyzację wektorową 
+Ćwiczenie 5 - Kompresja algebraiczna obrazów – algorytm PCA 
+Ćwiczenie 6 - Zastosowanie Dyskretnej Transformacji Kosinusowej (DĆT) do kompresji obrazo w statycznych
